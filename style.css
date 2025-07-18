@@ -80,3 +80,32 @@ nav ul{
     background-repeat: no-repeat;
     background-position: top left, bottom right;
 }
+.scnd-bg{
+    background-color: #FFF8F3;
+}
+/* about styles */
+.about{
+    border-radius: 10px;
+    padding: 130px 157px;
+    margin-top: 130px; 
+    text-align: center;
+
+}
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+      
+}
+.item-description{
+    font-weight: 700;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+   
+}
+section{
+    background-color: #FFFFFF;
+}
